@@ -1,1 +1,0 @@
-Smart Traffic Application is an app that helps control traffic in a better way. It reduces traffic jams, saves time for people, and makes roads safer by managing traffic smoothly. The app helps vehicles move easily and improves daily travel.
